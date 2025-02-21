@@ -1,1 +1,1 @@
-https://hel7side.github.io/goit-js-hw-04/
+https://hel7side.github.io/goit-js-hw-05/
